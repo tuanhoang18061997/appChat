@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">appChat</string>
+    <string name="username">Tên</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="title">TẠO TÀI KHOẢN MỚI</string>
+    <string name="title_login">Đăng nhập</string>
+    <string name="title_app">CHAT APP</string>
+    <string name="seen">Đã xem</string>
+    <string name="delivered">Đã nhận</string>
+    <string name="forgotpassword">Quên mật khẩu?</string>
+    <string name="resetpassword">Khôi phục mật khẩu</string>
+    <string name="note_reset_password">Nhấn vào nút trên , bạn sẽ nhận một mail để khôi phục mật khẩu.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
